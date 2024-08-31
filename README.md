@@ -1,5 +1,5 @@
 # html-practice
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
