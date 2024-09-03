@@ -1,4 +1,4 @@
-# html-practice\
+# html-practice
 
 <html lang="en">
 
