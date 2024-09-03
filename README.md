@@ -1,5 +1,5 @@
-# html-practice
-
+# html-practice\
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -78,7 +78,7 @@
 
     <img src="https://www.hindustantimes.com/ht-img/img/2023/03/31/1600x900/Naruto_and_Hinata_1680281671778_1680281673346_1680281673346.jpg"
         width="400px" alt="no image">
-
+        <img src="https://i.pinimg.com/736x/22/47/f3/2247f3ecce7455732d6980a6279b5d62.jpg" width="200px" alt="no image">
     <img src="https://c4.wallpaperflare.com/wallpaper/682/435/620/naruto-anime-uzumaki-naruto-jiraiya-naruto-shippuuden-hd-wallpaper-preview.jpg"
         width="400px" alt="no image">
 
@@ -87,7 +87,7 @@
 
     <img src="https://cdn.oneesports.gg/cdn-data/2024/04/Anime_SoloLevelingArise_SungJinwoo_ArmyofShadows.jpg"
         width="500px" alt="no image"> <br>
-
+        
         <img src="https://m.media-amazon.com/images/M/MV5BZGY3OTkwYTktZmU1Yi00YTFhLTlmNzgtYTFkODRjZmFhMTIxXkEyXkFqcGdeQXVyMzUwNDIxMjQ@._V1_.jpg" width="500px" alt="no image">
 
         <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/09/Tokyo-Revengers.jpg" width="500pxs"   alt="no image">
@@ -136,7 +136,7 @@
                 <td>
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/eO34TPpip3Q?si=mTM7uv79PNRef9xi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </td>
-
+                
             </tr>
         </table>
     </head>
@@ -228,6 +228,51 @@ His curiosity had doomed their entire town. He’d brought the ground to them. <
 <p> Thank you for your visit and How was the story?</p>
 
 
+<h2>Heart Emoji</h2>
+<p style="font-size: 100px;">♥</p>
+<head>
+    <table>
+        <style>
+            table 
+                width: 50%;
+
+                border-collapse: collapse;
+
+                text-align: center;
+                color: #FFFF;
+
+            
+
+            td,
+            th {
+
+                border: 1px solid black;
+
+                padding: 10px;
+
+            }
+
+            tr {
+                background-color: grey;
+            }
+        </style>
+
+<img src="https://static01.nyt.com/images/2021/09/30/fashion/29melting-face-emoji/29melting-face-emoji-mediumSquareAt3X-v2.jpg" width="200px" alt="no image">
+<img src="https://play-lh.googleusercontent.com/PKcxLenvz_aRJRK819POZxdMX2mFm2oHq-JmUZ6d9toElR2iOBnANRnxsoXFI1VAKQ" width="200px" alt="no image">
+<img src="https://i.pinimg.com/736x/22/47/f3/2247f3ecce7455732d6980a6279b5d62.jpg" width="200px" alt="no image">
+
+<tr>
+    <th>Fav Song</th>
+</tr>
+<tr>
+    
+    <td>
+       <iframe src="iframe width="560 height="315" src="https://www.youtube.com/embed/0_sZlZn8aLY?si=r9SLafbISOMpuQx_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" frameborder="0"></iframe>
+    </td>
+    
+</tr>
+</table>
+</head>
 
 </body>
 
